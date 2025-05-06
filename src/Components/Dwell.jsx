@@ -37,7 +37,7 @@ const Dwell = () => {
   <div className='bg-black py-10 px-4 sm:px-12'>
     <div className='flex flex-col sm:flex-row items-center sm:items-start gap-6'>
       <p className='text-white text-3xl sm:text-4xl font-semibold sm:w-1/3 text-center sm:text-left'>
-        Dwelling<br />Achievements
+        Dwelling<br/>Achievements
       </p>
       <p className='text-gray-400 text-sm sm:text-base sm:w-2/3 text-center sm:text-left'>
         Discover Your Perfect Home and Begin Your Story: Shu Homes - Where Every Dream Finds its Place,
